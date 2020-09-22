@@ -1,5 +1,5 @@
 # xml2object
-function to convert xml to object
+functions to convert xml to object
 
 examples 
 
