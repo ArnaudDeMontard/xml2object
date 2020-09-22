@@ -1,4 +1,3 @@
-@@ -0,0 +1,36 @@
   //Xml_fileToObject (path_t) -> obj
   //conversion fichier xml -> objet, chargement d'un fichier XML en DOM
 
